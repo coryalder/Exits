@@ -20,37 +20,22 @@ The following sources were used either directly or as learning material to const
 
 ## Schematic and PCBs
 
--- CURRENTLY OUT OF DATE --
-
 The [kicad](kicad) directory contains the schematic and PCB layout as a KiCad 6 project.
+
+**Gerber files have not been generated for MOUTH yet, the gerbers directory contains the gerbers for Exits.**
 
 ## Panel
 
--- CURRENTLY OUT OF DATE --
+**MOUTH has no panel yet, the panels directory contains Exits panel files**
 
 Available in the [panel](panel) directory as a PDF and an SVG vector file.
 
 ## Revisions and notes 
 
-- Started with this commit of [Exits](https://github.com/ramphands/Exits/tree/e56ce6f3a76ff6dc0b776ba10d0bfae7fea7ace0)
-- Switched from 4hp to 8hp
-- Switched from 7 input channels to 4
-- Switched from 1/4" jacks for line and hp to 3.5mm / 1/8" jacks for everything.
-- Flattened the design from two PCBs to just PCB
-- Switched to a CMOY style headphone output using the RC4580
+- Started with this commit of [Exits](https://github.com/ramphands/Exits/tree/e56ce6f3a76ff6dc0b776ba10d0bfae7fea7ace0).
 - MOUTH's first "complete" post-Exits scheamtic, using passive mixing can be found in the git history [here](https://github.com/coryalder/Exits/blob/65a9d2693df2f5ae9116ffd591f22e5cf609d3db/exits%20schematic.april12th.pdf). After that I switched to current based mixing, per Rod Elliott's article
-- MOUTH's first "complete" + "current-based" schematic is [here](https://github.com/coryalder/Exits/tree/e56ce6f3a76ff6dc0b776ba10d0bfae7fea7ace0)
-- Re-routed the board with the changes above
-
-
-## Todos:
-
-- Make a panel and panel template
-- Add 3d models for all the parts used
-- Add board rendering images to the readme
-- Add test points to make debugging easier
-- Confirm the L&R channels are routed correctly (pan pot orientation)
-- Build one, and confirm all of this works as intended
+- MOUTH's first "complete" + "current-based" schematic is [here](https://github.com/coryalder/Exits/tree/e56ce6f3a76ff6dc0b776ba10d0bfae7fea7ace0).
+- Fixed routing so left is on the left and right is on the right, [schematic](https://github.com/coryalder/MOUTH/blob/033efc4fa74acb90b556fa5d66f9de59aaeca7dc/exits%20schematic.pdf).
 
 ## License
 
