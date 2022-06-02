@@ -1,12 +1,12 @@
-# MOUTH
+# HEAR
 
 ### ⚠️ THIS MODULE HAS NOT YET BEEN BUILT, ATTEMPT TO BUILD AT YOUR OWN RISK ⚠️
 
 ![exits](/img/exits%20proto.jpg)
 
-MOUTH is a DIY 8hp eurorack module designed to be the output stage of your patches. It has a 4 channel mixer with individual pan and level controls, and line and headphone outputs.
+HEAR is a DIY 8hp eurorack module designed to be the output stage of your patches. It has a 4 channel mixer with individual pan and level controls, and line and headphone outputs.
 
-The project was derived from the [Exits](https://github.com/ramphands/Exits) module. Exits was a combination of the lines mixer project [Nearness](https://github.com/sarnesjo/nearness) and the [Forestcaver headphone amp](https://github.com/forestcaver/Analog-Voice/tree/master/AJH_Headphone_Amp). For MOUTH The patch-based stereo panning of Exits and nearness was changed out for individual pan and level controls for 4 tracks, and the Forestcaver headphone amp (based on the NJM4556AV-TE1 opamp) was changed out for a headphone amp loosely based on Chu Moy's famous ["CMoy" design](https://web.archive.org/web/20021223020724/http://headwize2.powerpill.org/projects/showproj.php?file=cmoy2_prj.htm) - in this case using the RC4580 instead of the OPA134 for availability and experimentation reasons. The module was expanded from 4hp to 8hp to accomodate the extra knobs. I also switched from 1/4" jacks for the two outputs - to 1/8" jacks for everything. The extra space on the widened input board, along with removing the two tall 1/4" jacks, allowed me to flatten the module from two PCBs to just one.
+The project was derived from the [Exits](https://github.com/ramphands/Exits) module. Exits was a combination of the lines mixer project [Nearness](https://github.com/sarnesjo/nearness) and the [Forestcaver headphone amp](https://github.com/forestcaver/Analog-Voice/tree/master/AJH_Headphone_Amp). For HEAR The patch-based stereo panning of Exits and nearness was changed out for individual pan and level controls for 4 tracks, and the Forestcaver headphone amp (based on the NJM4556AV-TE1 opamp) was changed out for a headphone amp loosely based on Chu Moy's famous ["CMoy" design](https://web.archive.org/web/20021223020724/http://headwize2.powerpill.org/projects/showproj.php?file=cmoy2_prj.htm) - in this case using the RC4580 instead of the OPA134 for availability and experimentation reasons. The module was expanded from 4hp to 8hp to accomodate the extra knobs. I also switched from 1/4" jacks for the two outputs - to 1/8" jacks for everything. The extra space on the widened input board, along with removing the two tall 1/4" jacks, allowed me to flatten the module from two PCBs to just one.
 
 If you'd like to explore the pan + mix section, circuitjs simulation files are in the [simulations](simulations) directory.
 
@@ -22,20 +22,20 @@ The following sources were used either directly or as learning material to const
 
 The [kicad](kicad) directory contains the schematic and PCB layout as a KiCad 6 project.
 
-**Gerber files have not been generated for MOUTH yet, the gerbers directory contains the gerbers for Exits.**
+**Gerber files have not been generated for HEAR yet, the gerbers directory contains the gerbers for Exits.**
 
 ## Panel
 
-**MOUTH has no panel yet, the panels directory contains Exits panel files**
+**HEAR has no panel yet, the panels directory contains Exits panel files**
 
 Available in the [panel](panel) directory as a PDF and an SVG vector file.
 
 ## Revisions and notes 
 
 - Started with this commit of [Exits](https://github.com/ramphands/Exits/tree/e56ce6f3a76ff6dc0b776ba10d0bfae7fea7ace0).
-- MOUTH's first "complete" post-Exits scheamtic, using passive mixing can be found in the git history [here](https://github.com/coryalder/Exits/blob/65a9d2693df2f5ae9116ffd591f22e5cf609d3db/exits%20schematic.april12th.pdf). After that I switched to current based mixing, per Rod Elliott's article
-- MOUTH's first "complete" + "current-based" schematic is [here](https://github.com/coryalder/Exits/tree/e56ce6f3a76ff6dc0b776ba10d0bfae7fea7ace0).
-- Fixed routing so left is on the left and right is on the right, [schematic](https://github.com/coryalder/MOUTH/blob/033efc4fa74acb90b556fa5d66f9de59aaeca7dc/exits%20schematic.pdf).
+- HEAR's first "complete" post-Exits scheamtic, using passive mixing can be found in the git history [here](https://github.com/coryalder/Exits/blob/65a9d2693df2f5ae9116ffd591f22e5cf609d3db/exits%20schematic.april12th.pdf). After that I switched to current based mixing, per Rod Elliott's article
+- HEAR's first "complete" + "current-based" schematic is [here](https://github.com/coryalder/Exits/tree/e56ce6f3a76ff6dc0b776ba10d0bfae7fea7ace0).
+- Fixed routing so left is on the left and right is on the right, [schematic](https://github.com/crowselectromusic/HEAR/blob/033efc4fa74acb90b556fa5d66f9de59aaeca7dc/exits%20schematic.pdf).
 
 ## License
 
