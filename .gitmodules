@@ -1,0 +1,3 @@
+[submodule "kicad/crows-kicad-library"]
+	path = kicad/crows-kicad-library
+	url = https://github.com/crowselectromusic/crows-kicad-library.git

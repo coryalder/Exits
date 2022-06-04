@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "nearness")(type "KiCad")(uri "$(KIPRJMOD)/HEAR.pretty")(options "")(descr ""))
+  (lib (name "Crows")(type "KiCad")(uri "$(KIPRJMOD)/crows-kicad-library/Crows.pretty")(options "")(descr ""))
 )

@@ -1,4 +1,4 @@
-20177934029027903
+20181242819330278
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -48908,6 +48908,27 @@ DCDC-Converter XP_POWER JTE06 Dual
 0
 8
 8
+Crows
+PJ341
+
+
+0
+3
+3
+Crows
+RV1666G-F
+
+
+0
+6
+6
+Crows
+RotaryPotVerticalSingle9mm
+Potentiometer, vertical, Bourns PTV09A-1 Single, 9mm, rv09, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
+Potentiometer vertical Bourns PTV09A-1 Single 9mm rotary
+0
+3
+3
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -85688,13 +85709,6 @@ WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
 3
 nearness
 PJ301M12
-
-
-0
-3
-3
-nearness
-PJ341
 
 
 0
