@@ -2340,7 +2340,7 @@
     (property "Sheetfile" "HEAR.kicad_sch")
     (property "Sheetname" "")
     (path "/d8696f0d-97a1-4b87-977a-afe017fbab25")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "R2" (at -5.178 -16.51) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c567aa57-4124-4fe3-8ce6-bdcf15e31825)
@@ -2687,7 +2687,7 @@
     (property "Sheetfile" "HEAR.kicad_sch")
     (property "Sheetname" "")
     (path "/8f62b4fb-3901-4edb-8819-40329bb5de93")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "R4" (at 4.728 0.762 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3c12cfdc-c744-4404-97ad-3ffe75f70688)
