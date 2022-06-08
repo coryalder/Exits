@@ -1,8 +1,8 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,0.47uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,24.4664,-95.9082,180.0,bottom
 C2,0.47uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,28.759,-94.5366,90.0,bottom
-C5,22u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,17.3482,-74.3966,180.0,bottom
-C6,22u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4.5212,-74.5236,180.0,bottom
+C5,22u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,16.9,-74.4,180.0,bottom
+C6,22u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,4.9,-74.9,180.0,bottom
 C7,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,26.7462,-74.2696,180.0,bottom
 C8,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,26.7462,-84.8106,180.0,bottom
 C9,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,20.3262,-91.9458,0.0,bottom
@@ -10,9 +10,7 @@ C10,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,13.392,-100.4294,90.0,botto
 D1,1N5819HW,D_SOD-323_HandSoldering,17.2212,-71.9836,180.0,bottom
 D2,1N5819HW,D_SOD-323_HandSoldering,4.6482,-72.1106,180.0,bottom
 R1,50K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,24.3332,-5.1816,0.0,bottom
-R2,LIN1.5K,R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,37.2872,-102.1806,-90.0,bottom
 R3,50K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,24.3332,-19.5326,0.0,bottom
-R4,LIN1.5K,R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,37.2872,-98.9366,90.0,bottom
 R5,50K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,24.0792,-34.3916,0.0,bottom
 R7,50K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,24.7904,-43.9928,0.0,bottom
 R15,100K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,19.5642,-104.341,180.0,bottom

@@ -1,5 +1,6 @@
 Comment,Designator,Footprint,LCSC
 TL074,U1,SOIC-14_3.9x8.7mm_P1.27mm,C12594
+22u,"C5,C6",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C12891
 100n,"C10,C7,C8,C9",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
 100K,"R15,R16,R35,R36",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C149504
 10,"R33,R34",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C17903
@@ -10,7 +11,24 @@ TL074,U1,SOIC-14_3.9x8.7mm_P1.27mm,C12594
 50K,"R1,R17,R20,R3,R5,R7",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23196
 100K,"R19,R38",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25803
 10K,"R21,R22,R23,R24,R27,R28",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
-22u,"C5,C6",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C45783
 RC4580,U2,SOIC-8_3.9x4.9mm_P1.27mm,C80100
+PJ341,J2,PJ341_3.5mm_headphone,
+10K,RV9,Potentiometer_Rotary_9mm_Vertical_Single,
+PJ341,J1,PJ341_3.5mm_headphone,
+PJ341,J3,PJ341_3.5mm_headphone,
+10K Vol,RV2,Potentiometer_Rotary_9mm_Vertical_Single,
+10K,RV7,Potentiometer_Rotary_9mm_Vertical_Single,
+10K,RV8,Potentiometer_Rotary_9mm_Vertical_Single,
+B10K,RV1,RV1666G-F,
+10K Vol,RV4,Potentiometer_Rotary_9mm_Vertical_Single,
+PJ341,J13,PJ341_3.5mm_headphone,
+10K Vol,RV3,Potentiometer_Rotary_9mm_Vertical_Single,
+10K Vol,RV5,Potentiometer_Rotary_9mm_Vertical_Single,
+10K,RV6,Potentiometer_Rotary_9mm_Vertical_Single,
+PJ341,J4,PJ341_3.5mm_headphone,
+PJ341,J14,PJ341_3.5mm_headphone,
+Euro power header,J12,IDC-Header_2x05_P2.54mm_Vertical,
+Attenuator Jumper 1,J5,PinHeader_1x03_P2.54mm_Vertical,
 LIN1.5K,R2,R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,
+Attenuator Jumper 2,J6,PinHeader_1x03_P2.54mm_Vertical,
 LIN1.5K,R4,R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,
