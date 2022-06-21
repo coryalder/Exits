@@ -1,6 +1,6 @@
 # HEAR
 
-### ⚠️ THIS MODULE HAS NOT YET BEEN BUILT, ATTEMPT TO BUILD AT YOUR OWN RISK ⚠️
+### ⚠️ THIS MODULE WORKS, BUT HASN'T BEEN TESTED THUROUGHLY YET ⚠️
 
 ![exits](img/HEAR-proto.jpg)
 
@@ -19,6 +19,8 @@ The following sources were used either directly or as learning material to const
 - [Befaco Hexmix](http://www.befaco.org/hexmix/)
 
 ## Schematic and PCBs
+
+![exits](img/HEAR-3d.jpg)
 
 The [kicad](kicad) directory contains the schematic and PCB layout as a KiCad 6 project.
 
