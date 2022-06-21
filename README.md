@@ -2,7 +2,7 @@
 
 ### ⚠️ THIS MODULE HAS NOT YET BEEN BUILT, ATTEMPT TO BUILD AT YOUR OWN RISK ⚠️
 
-![exits](/img/exits%20proto.jpg)
+![exits](img/HEAR-proto.jpg)
 
 HEAR is a DIY 8hp eurorack module designed to be the output stage of your patches. It has a 4 channel mixer with individual pan and level controls, and line and headphone outputs.
 
